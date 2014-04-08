@@ -4,4 +4,5 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-49838409-1', 'theunibal.github.io');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview');
